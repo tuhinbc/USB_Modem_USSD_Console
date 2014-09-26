@@ -1,0 +1,4 @@
+c:\users\tuhin\documents\visual studio 2010\Projects\USSD_console\USSD_console\bin\Release\USSD_console.exe
+c:\users\tuhin\documents\visual studio 2010\Projects\USSD_console\USSD_console\bin\Release\USSD_console.pdb
+c:\users\tuhin\documents\visual studio 2010\Projects\USSD_console\USSD_console\obj\x86\Release\USSD_console.exe
+c:\users\tuhin\documents\visual studio 2010\Projects\USSD_console\USSD_console\obj\x86\Release\USSD_console.pdb
